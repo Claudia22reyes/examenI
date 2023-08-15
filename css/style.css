@@ -22,6 +22,7 @@ header{
 	border-bottom: 1px solid #eee;
 }
 footer{
+	background-color: var(--fondo-footer);
 	text-align: center;
 	padding: 20px 0;
 	color: var(--color-footer);
@@ -82,6 +83,18 @@ h3{
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+#team h2{
+
+	text-align: center;
+	font-size: 80px;
+	color: rgba(60,57,57,0.28);
+}
+
+.center{
+	text-align: center;
+}
+
 
 
 
